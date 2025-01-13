@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <pattern id="gridPattern" width="4" height="4" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="black"/>
+  </pattern>
+  <rect width="400" height="400" fill="url(#gridPattern)"/>
+</svg>
