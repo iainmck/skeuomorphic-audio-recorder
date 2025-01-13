@@ -11,6 +11,8 @@ Based on John Kantner's [original design](https://codepen.io/jkantner/pen/Vwoaqo
 
 Open in XCode and run the iOS previewer. No packages required.
 
+Development note: There is a difference in how the iOS previewer on Mac and the actual device render shadows. This code has been optimized for presentation on an actual device. Make sure you live preview on a real device in the final stages, otherwise your fine-tuning of shadows will be wasted.
+
 Production note: I don't recommend copy-pasting into production as every shadow is rendered and the main thread absolutely takes a performance hit. It makes much more sense to use an image for anything static (eg the bulk of this device) and only use shadows where you need dynamic control.
 
 ## More by me
