@@ -1,7 +1,7 @@
 # Skeuomorphic / Realistic Audio Device
 
 This is a SwiftUI implementation of a realistic-looking device with metal, rubber, and glass components. 
-Intended for use in iOS apps. The device is completely functional.
+Intended for use in iOS apps. The buttons, display, microphone are all functional.
 
 <img src="demo2.PNG" alt="demo image" width="400"/>
 
