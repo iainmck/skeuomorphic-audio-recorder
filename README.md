@@ -3,7 +3,7 @@
 This is a SwiftUI implementation of a realistic-looking device with metal, rubber, and glass components. 
 Intended for use in iOS apps. The device is completely functional.
 
-<img src="demo.PNG" alt="demo image" width="400"/>
+<img src="demo2.PNG" alt="demo image" width="400"/>
 
 Based on John Kantner's [original design](https://codepen.io/jkantner/pen/VwoaqoG) for web.
 
