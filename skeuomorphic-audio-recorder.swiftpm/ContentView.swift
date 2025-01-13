@@ -155,6 +155,11 @@ struct DisplayPanel: View {
                 endPoint: .bottomTrailing
             )
         }
+        
+        .overlay {
+            Rectangle().fill(LinearGradient(colors: [Color.white.opacity(0.0), Color.white.opacity(0.05)], startPoint: .top, endPoint: .bottom)).frame(width: 500, height: 100).offset(y: -50).rotationEffect(.init(degrees: -20))
+        }
+        
         .clipShape(RoundedRectangle(cornerRadius: 2))
         .innerShadow(radius: 2, spread: 2, opacity: 0.6)
     }
