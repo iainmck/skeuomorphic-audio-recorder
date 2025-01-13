@@ -5,7 +5,7 @@ Intended for use in iOS apps. The device is completely functional.
 
 <img src="demo2.PNG" alt="demo image" width="400"/>
 
-Based on John Kantner's [original design](https://codepen.io/jkantner/pen/VwoaqoG) for web.
+Based on Jon Kantner's [original design](https://codepen.io/jkantner/pen/VwoaqoG) for web.
 
 ## Testing
 
